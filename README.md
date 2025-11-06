@@ -1,12 +1,13 @@
 # Atrapa la Estrella
 
-![Juego en acción]
+<img width="761" height="859" alt="image" src="https://github.com/user-attachments/assets/4d918b9e-520f-4c8c-a8dd-fec5e851f977" />
+
 
 **Juego simple y divertido en JavaScript puro.**  
 Haz clic en las estrellas que caen antes de que desaparezcan.  
 ¡Consigue la mayor puntuación en 30 segundos!
 
-[¡Jugar ahora!](https://tu-usuario.github.io/star-catcher)
+[¡Jugar ahora!](https://supersteban.github.io/probable-fun/)
 
 ---
 
@@ -53,4 +54,4 @@ Un juego casual donde el jugador debe **atrapar estrellas** que caen del cielo.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/SuperSteban/probable-fun/
