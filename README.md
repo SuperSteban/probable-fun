@@ -1,6 +1,6 @@
 # Atrapa la Estrella
 
-![Juego en acción](https://i.imgur.com/6xK6z9F.gif)
+![Juego en acción]
 
 **Juego simple y divertido en JavaScript puro.**  
 Haz clic en las estrellas que caen antes de que desaparezcan.  
@@ -53,4 +53,4 @@ Un juego casual donde el jugador debe **atrapar estrellas** que caen del cielo.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/star-catcher.git
+   git clone https://github.com/
