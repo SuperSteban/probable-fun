@@ -1,6 +1,7 @@
 # Atrapa la Estrella
 
-<img width="761" height="859" alt="image" src="https://github.com/user-attachments/assets/4d918b9e-520f-4c8c-a8dd-fec5e851f977" />
+<img width="585" height="725" alt="image" src="https://github.com/user-attachments/assets/cf721b8a-11bc-4edc-84c6-25fc171c6331" />
+
 
 
 **Juego simple y divertido en JavaScript puro.**  
